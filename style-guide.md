@@ -13,20 +13,19 @@ The designs were created to the following widths:
 
 ### Primary
 
-Moderate violet: hsl(263, 55%, 52%)
-Very dark grayish blue: hsl(217, 19%, 35%)
-Very dark blackish blue: hsl(219, 29%, 14%)
-White: hsl(0, 0%, 100%)
+- Purple 50: hsl(260, 100%, 95%)
+- Purple 300: hsl(264, 82%, 80%)
+- Purple 500: hsl(263, 55%, 52%)
 
 ### Neutral
 
-Light gray: hsl(0, 0%, 81%)
-Light grayish blue: hsl(210, 46%, 95%)
-
-Note for text colors:
-
-1. "Verified Graduate" has the same color as the person's name with 50% opacity
-2. Review paragraphs inside the quotations have the same color as well, but are at 70% opacity
+- White: hsl(0, 0%, 100%)
+- Grey 100: hsl(214, 17%, 92%)
+- Grey 200: hsl(0, 0%, 81%)
+- Grey 400: hsl(224, 10%, 45%)
+- Grey 500: hsl(217, 19%, 35%)
+- Dark blue: hsl(219, 29%, 14%)
+- Black: hsl(0, 0%, 7%)
 
 ## Typography
 
